@@ -3,3 +3,5 @@ description: An AIDA course
 show_downloads: True
 google_analytics:
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
