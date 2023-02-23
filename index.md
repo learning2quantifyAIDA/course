@@ -2,6 +2,14 @@
 layout: default
 ---
 
+```
+          Policy makers or computer scientists may be interested in
+    finding the needle in the haystack (...), but social scientists
+       are more commonly interested in characterizing the haystack.
+  
+                            (Daniel J. Hopkins and Gary King, 2010)
+```
+
 # Learning to Quantify (AIDA)
 
 _Quantification_ (variously called _learning to
@@ -61,10 +69,4 @@ statistics, machine learning, and coding skills would be welcome.
 * * *
 
 
-```
-          Policy makers or computer scientists may be interested in
-    finding the needle in the haystack (...), but social scientists
-       are more commonly interested in characterizing the haystack.
-  
-                            (Daniel J. Hopkins and Gary King, 2010)
-```
+
