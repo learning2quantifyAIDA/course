@@ -46,10 +46,10 @@ for quantification.
 The course will be held online (link TBA) and will be structured in 4 slots of two hours each. 
 The course is scheduled as follows:
 
-* 8 March, 16.00 - 18.00
-* 10 March, 16.00 - 18.00
-* 13 March, 16.00 - 18.00
-* 15 March, 16.00 - 18.00
+* 9 March, 16.00 - 18.00
+* 14 March, 16.00 - 18.00
+* 16 March, 16.00 - 18.00
+* 21 March, 16.00 - 18.00
 
 ## Lecturers:
 
