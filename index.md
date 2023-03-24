@@ -60,7 +60,7 @@ The course is scheduled as follows:
 
 ## Online Material
 
-A download link, containing the material we will be using during the course, will be enabled soon.
+The material of this course can be downloaded [here](./AIDA_material.zip).
 
 ## Pre-requisites:
 
