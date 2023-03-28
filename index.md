@@ -10,7 +10,7 @@ layout: default
                             (Daniel J. Hopkins and Gary King, 2010)
 ```
 
-# Learning to Quantify (AIDA)
+# Learning to Quantify: Inferring Unbiased Estimators of Class Prevalence via Machine Learning
 
 This course provides an introduction and an overview of learning to quantify (a.k.a. “quantification”), i.e. the task of training estimators of class proportions in unlabeled data by means of supervised learning. In data science, learning to quantify is a task of its own related to classification yet different from it, since estimating class proportions by simply classifying all data and counting the labels assigned by the classifier is known to often return inaccurate (“biased”) class proportion estimates.
 
